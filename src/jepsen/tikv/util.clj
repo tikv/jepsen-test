@@ -1,3 +1,5 @@
+; Copyright 2021 TiKV Project Authors. Licensed under Apache-2.0.
+
 (ns jepsen.tikv.util
   "Utilities"
   (:require [slingshot.slingshot :refer [throw+]]))

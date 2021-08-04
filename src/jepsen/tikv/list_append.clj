@@ -1,3 +1,5 @@
+; Copyright 2021 TiKV Project Authors. Licensed under Apache-2.0.
+
 (ns jepsen.tikv.list-append
   "This test performs transactional appends and reads of various keys.
   Each key has a list of values encoded as a string."

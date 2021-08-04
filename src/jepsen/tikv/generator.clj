@@ -1,3 +1,5 @@
+; Copyright 2021 TiKV Project Authors. Licensed under Apache-2.0.
+
 ; This code is copied from https://github.com/jepsen-io/jepsen/blob/d0f9233b1d1399641add865ba3bd44178e1cb6fa/jepsen/src/jepsen/generator.clj#L226
 ; for delay-til.
 (ns jepsen.tikv.generator

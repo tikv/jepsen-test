@@ -1,3 +1,5 @@
+; Copyright 2021 TiKV Project Authors. Licensed under Apache-2.0.
+
 (ns ^{:doc "Subprocess library"
       :author "Miki Tebeka <miki.tebeka@gmail.com>"}
  popen

@@ -1,3 +1,5 @@
+; Copyright 2021 TiKV Project Authors. Licensed under Apache-2.0.
+
 (defproject jepsen.tikv "0.1.0-SNAPSHOT"
   :description "Jepsen test for TiKV"
   :url "https://tikv.org"

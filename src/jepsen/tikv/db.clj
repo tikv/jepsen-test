@@ -1,3 +1,5 @@
+; Copyright 2021 TiKV Project Authors. Licensed under Apache-2.0.
+
 (ns jepsen.tikv.db
   (:require [clojure.tools.logging :refer :all]
             [clojure.string :as str]

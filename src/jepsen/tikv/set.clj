@@ -1,3 +1,5 @@
+; Copyright 2021 TiKV Project Authors. Licensed under Apache-2.0.
+
 (ns jepsen.tikv.set
   (:require [jepsen
              [checker :as checker]

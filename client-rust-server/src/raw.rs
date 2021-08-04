@@ -1,3 +1,5 @@
+// Copyright 2021 TiKV Project Authors. Licensed under Apache-2.0.
+
 use super::tikv_client_server::error::Error as ClientServerError;
 use super::tikv_client_server::raw::client_server::Client;
 use super::tikv_client_server::raw::{GetReply, GetRequest, PutReply, PutRequest};

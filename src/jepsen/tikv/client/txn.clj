@@ -1,3 +1,5 @@
+; Copyright 2021 TiKV Project Authors. Licensed under Apache-2.0.
+
 (ns jepsen.tikv.client.txn
   (:require [tikv.txn.Client.client :as txnkv]
             [protojure.grpc.client.providers.http2 :as grpc.http2]
